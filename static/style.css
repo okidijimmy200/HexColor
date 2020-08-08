@@ -1,0 +1,24 @@
+.container {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    position: relative;
+   
+
+}
+
+.btn-main {
+    position: absolute;
+    top: 15rem;
+    left: 45%;
+
+}
+
+.btn {
+    border: none;
+    padding: 1rem;
+    cursor: pointer;
+    background-color: #333;
+    border-radius: 1rem;
+}
